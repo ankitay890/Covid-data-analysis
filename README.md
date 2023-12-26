@@ -1,1 +1,1 @@
-# Covid-data-analysis
+# Covid-data-prediction
