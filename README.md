@@ -5,8 +5,8 @@ The machine learning algorithms used are Logistic Regression, Decision Trees & R
 
 Out of all the Random Forest algorithm gave the best accuracy, best recall value and the least type 2 error.
 1. Recall value for:
-class 0 is 0.85
-class 1 is 0.72          
+* class 0 is 0.85
+* class 1 is 0.72          
 2. The accuracy 78%.
 
 
